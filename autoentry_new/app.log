@@ -1,0 +1,2290 @@
+2024-12-17 11:17:43,636 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:17:43,637 - api - INFO - fail.pdf
+2024-12-17 11:17:46,771 - api - INFO - Answer extracted: {'header': {'Supplier Name': None, 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 11:17:46,772 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:17:46,919 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:17:47,092 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:17:47,156 - api - INFO - Database updated successfully
+2024-12-17 11:18:15,183 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:18:15,184 - api - INFO - fail.pdf
+2024-12-17 11:18:18,210 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Sales Managers', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 11:18:18,211 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:18:18,577 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:18:18,876 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:18:18,959 - api - INFO - Database updated successfully
+2024-12-17 11:18:56,689 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:18:56,690 - api - INFO - PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 11:19:00,295 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:19:00,296 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:19:00,833 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:19:01,193 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:19:01,336 - api - INFO - Database updated successfully
+2024-12-17 11:20:59,630 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:20:59,631 - api - INFO - PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 11:21:04,712 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:21:04,713 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:21:04,926 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:21:05,160 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:21:05,289 - api - INFO - Database updated successfully
+2024-12-17 11:24:29,030 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:24:29,031 - api - INFO - PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 11:24:34,081 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:24:34,083 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:24:34,259 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:24:34,260 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:24:34,495 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:24:34,576 - api - INFO - Database updated successfully
+2024-12-17 11:29:57,025 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:30:02,318 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:30:02,320 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:30:02,541 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:30:02,543 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:30:02,771 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:30:02,884 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:30:55,438 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:31:00,691 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:31:00,693 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:31:00,959 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:31:00,959 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:31:01,137 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:31:01,209 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:32:46,999 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:32:52,101 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'TEAM SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:32:52,104 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:32:52,277 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:32:52,279 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:32:52,426 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:32:52,521 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:33:39,635 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:33:44,601 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SAI OFFICE SUPPLIES (TZ) LIMITED', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:33:44,603 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:33:44,808 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:33:44,809 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:33:44,998 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:33:45,109 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:34:09,396 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:34:14,934 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'TEAM SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:34:14,936 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:34:15,138 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:34:15,139 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:34:15,510 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:34:15,650 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:35:53,209 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:35:58,270 - api - INFO - Answer extracted: {'header': {'Supplier Name': ' SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:35:58,272 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:35:58,499 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:35:58,500 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:35:58,757 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:36:16,951 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:36:20,489 - api - INFO - Answer extracted: {'header': {'Supplier Name': ' SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 11:36:20,491 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:36:20,666 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:36:20,668 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:36:20,864 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 11:37:13,591 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:37:16,608 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Sales Managers', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 11:37:16,611 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:37:16,731 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:37:16,732 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:37:16,957 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:37:17,033 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:40:23,509 - api - INFO - Processing PDF for user 122...
+2024-12-17 11:40:26,046 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR'}, 'line_items': [{'Item Code': '8421', 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 1449.16, 'Total': 9500.0}], 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0.01, 'VAT Amount': 1449.16, 'Total': 9500.0}}
+2024-12-17 11:40:26,048 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\122
+2024-12-17 11:40:26,214 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\122\idk.pdf.
+2024-12-17 11:40:26,216 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\122\idk.pdf
+2024-12-17 11:40:26,432 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:40:26,496 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:59:02,188 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 11:59:02,189 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 11:59:02,190 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:167]
+2024-12-17 11:59:02,190 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:02,191 - python_multipart.multipart - DEBUG - Calling on_header_field with data[169:181]
+2024-12-17 11:59:02,191 - python_multipart.multipart - DEBUG - Calling on_header_value with data[183:198]
+2024-12-17 11:59:02,192 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:02,192 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 11:59:02,193 - python_multipart.multipart - DEBUG - Calling on_part_data with data[202:18243]
+2024-12-17 11:59:02,194 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 11:59:02,194 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 11:59:02,194 - python_multipart.multipart - DEBUG - Calling on_header_field with data[18299:18318]
+2024-12-17 11:59:02,196 - python_multipart.multipart - DEBUG - Calling on_header_value with data[18320:18345]
+2024-12-17 11:59:02,197 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:02,198 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 11:59:02,198 - python_multipart.multipart - DEBUG - Calling on_part_data with data[18349:18353]
+2024-12-17 11:59:02,199 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 11:59:02,199 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 11:59:02,213 - api - INFO - Processing PDF for user 1226...
+2024-12-17 11:59:02,215 - api - INFO - File Eastern Software Solutions Private Limited-12 (2) (1).pdf saved to pdf\1226\Eastern Software Solutions Private Limited-12 (2) (1).pdf
+2024-12-17 11:59:06,254 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR'}, 'line_items': [{'Item Code': '8421', 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 1449.16, 'Total': 9500.0}], 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0.01, 'VAT Amount': 1449.16, 'Total': 9500.0}}
+2024-12-17 11:59:06,254 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1226
+2024-12-17 11:59:06,448 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1226\idk.pdf.
+2024-12-17 11:59:06,451 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1226\idk.pdf
+2024-12-17 11:59:06,805 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:59:06,888 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 11:59:13,593 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 11:59:13,594 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 11:59:13,595 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:167]
+2024-12-17 11:59:13,596 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:13,596 - python_multipart.multipart - DEBUG - Calling on_header_field with data[169:181]
+2024-12-17 11:59:13,597 - python_multipart.multipart - DEBUG - Calling on_header_value with data[183:198]
+2024-12-17 11:59:13,597 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:13,598 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 11:59:13,599 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:18041]
+2024-12-17 11:59:13,599 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 11:59:13,600 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 11:59:13,600 - python_multipart.multipart - DEBUG - Calling on_header_field with data[18097:18116]
+2024-12-17 11:59:13,601 - python_multipart.multipart - DEBUG - Calling on_header_value with data[18118:18143]
+2024-12-17 11:59:13,601 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 11:59:13,602 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 11:59:13,602 - python_multipart.multipart - DEBUG - Calling on_part_data with data[18147:18151]
+2024-12-17 11:59:13,604 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 11:59:13,604 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 11:59:13,605 - api - INFO - Processing PDF for user 1226...
+2024-12-17 11:59:13,607 - api - INFO - File Eastern Software Solutions Private Limited-12 (2) (1).pdf saved to pdf\1226\Eastern Software Solutions Private Limited-12 (2) (1).pdf
+2024-12-17 11:59:15,900 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR'}, 'line_items': [{'Item Code': '8421', 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 1449.16, 'Total': 9500.0}], 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0.01, 'VAT Amount': 1449.16, 'Total': 9500.0}}
+2024-12-17 11:59:15,902 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1226
+2024-12-17 11:59:16,170 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1226\idk.pdf.
+2024-12-17 11:59:16,221 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1226\idk.pdf
+2024-12-17 11:59:16,432 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 11:59:16,482 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:07:07,459 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:07:07,459 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:07:07,459 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:113]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_header_field with data[115:127]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_header_value with data[129:144]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[148:13140]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:7300]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:17520]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:13140]
+2024-12-17 12:07:07,464 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:26280]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:429]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_header_field with data[473:492]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_header_value with data[494:519]
+2024-12-17 12:07:07,479 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:07:07,488 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:07:07,488 - python_multipart.multipart - DEBUG - Calling on_part_data with data[523:524]
+2024-12-17 12:07:07,488 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:07:07,488 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:07:07,488 - api - INFO - Processing PDF for user 1...
+2024-12-17 12:07:07,527 - api - INFO - File PI - 16304R.pdf saved to pdf\1\PI - 16304R.pdf
+2024-12-17 12:07:12,054 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 3115200.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 12:07:12,054 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 12:07:12,260 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 12:07:12,261 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 12:07:12,529 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:19:35,017 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:19:35,018 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:19:35,019 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:113]
+2024-12-17 12:19:35,020 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:19:35,021 - python_multipart.multipart - DEBUG - Calling on_header_field with data[115:127]
+2024-12-17 12:19:35,022 - python_multipart.multipart - DEBUG - Calling on_header_value with data[129:144]
+2024-12-17 12:19:35,024 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:19:35,025 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:19:35,027 - python_multipart.multipart - DEBUG - Calling on_part_data with data[148:1460]
+2024-12-17 12:19:35,027 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,028 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:11680]
+2024-12-17 12:19:35,029 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:19:35,033 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:10220]
+2024-12-17 12:19:35,034 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:19:35,035 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:19:35,036 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,037 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,038 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:19:35,039 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:19:35,040 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,041 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:19:35,042 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:19:35,043 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,046 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:19:35,046 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:19:35,046 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:429]
+2024-12-17 12:19:35,047 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:19:35,047 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:19:35,047 - python_multipart.multipart - DEBUG - Calling on_header_field with data[473:492]
+2024-12-17 12:19:35,047 - python_multipart.multipart - DEBUG - Calling on_header_value with data[494:519]
+2024-12-17 12:19:35,047 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:19:35,048 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:19:35,048 - python_multipart.multipart - DEBUG - Calling on_part_data with data[523:524]
+2024-12-17 12:19:35,048 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:19:35,048 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:19:35,049 - api - INFO - Processing PDF for user 2...
+2024-12-17 12:19:35,079 - api - INFO - File PI - 16304R.pdf saved to pdf\2\PI - 16304R.pdf
+2024-12-17 12:19:39,581 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 3115200.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 12:19:39,591 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 12:19:39,672 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 12:19:39,673 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 12:19:39,936 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:21:10,315 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:21:10,317 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:21:10,318 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:113]
+2024-12-17 12:21:10,319 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:21:10,320 - python_multipart.multipart - DEBUG - Calling on_header_field with data[115:127]
+2024-12-17 12:21:10,320 - python_multipart.multipart - DEBUG - Calling on_header_value with data[129:144]
+2024-12-17 12:21:10,321 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:21:10,322 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:21:10,323 - python_multipart.multipart - DEBUG - Calling on_part_data with data[148:7300]
+2024-12-17 12:21:10,324 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:21:10,330 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:21:10,331 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:21:10,332 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:14600]
+2024-12-17 12:21:10,332 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:21:10,342 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:24820]
+2024-12-17 12:21:10,345 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:17520]
+2024-12-17 12:21:10,346 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1889]
+2024-12-17 12:21:10,346 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:21:10,347 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:21:10,347 - python_multipart.multipart - DEBUG - Calling on_header_field with data[1933:1952]
+2024-12-17 12:21:10,347 - python_multipart.multipart - DEBUG - Calling on_header_value with data[1954:1979]
+2024-12-17 12:21:10,348 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:21:10,348 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:21:10,349 - python_multipart.multipart - DEBUG - Calling on_part_data with data[1983:1984]
+2024-12-17 12:21:10,349 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:21:10,349 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:21:10,350 - api - INFO - Processing PDF for user 1...
+2024-12-17 12:21:10,351 - api - INFO - File PI - 16304R.pdf saved to pdf\1\PI - 16304R.pdf
+2024-12-17 12:21:16,036 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 3115200.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 12:21:16,037 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 12:21:16,119 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 12:21:16,120 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 12:21:16,395 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:22:28,959 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:22:28,960 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:22:28,960 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:136]
+2024-12-17 12:22:28,960 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:22:28,961 - python_multipart.multipart - DEBUG - Calling on_header_field with data[138:150]
+2024-12-17 12:22:28,961 - python_multipart.multipart - DEBUG - Calling on_header_value with data[152:167]
+2024-12-17 12:22:28,961 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:22:28,962 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:22:28,962 - python_multipart.multipart - DEBUG - Calling on_part_data with data[171:1460]
+2024-12-17 12:22:28,963 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:11680]
+2024-12-17 12:22:28,972 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:4380]
+2024-12-17 12:22:28,973 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,973 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,979 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,981 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:23360]
+2024-12-17 12:22:28,982 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,983 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,984 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,985 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,985 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,987 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:10220]
+2024-12-17 12:22:28,989 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:14600]
+2024-12-17 12:22:28,989 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:22:28,990 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,991 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:22:28,992 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:28,993 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,994 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:22:28,996 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:26280]
+2024-12-17 12:22:28,997 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:20440]
+2024-12-17 12:22:28,998 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:28,999 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:17520]
+2024-12-17 12:22:29,000 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:644]
+2024-12-17 12:22:29,001 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:14600]
+2024-12-17 12:22:29,002 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1784]
+2024-12-17 12:22:29,003 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:10220]
+2024-12-17 12:22:29,003 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:29,010 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:19304]
+2024-12-17 12:22:29,014 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1784]
+2024-12-17 12:22:29,016 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:47368]
+2024-12-17 12:22:29,018 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:324]
+2024-12-17 12:22:29,019 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:29,020 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:22224]
+2024-12-17 12:22:29,023 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:43312]
+2024-12-17 12:22:29,024 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:29,025 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:22:29,028 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:22:29,029 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:23360]
+2024-12-17 12:22:29,032 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:17520]
+2024-12-17 12:22:29,033 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:22:29,036 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:21900]
+2024-12-17 12:22:29,038 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:52560]
+2024-12-17 12:22:29,042 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1285]
+2024-12-17 12:22:29,042 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:22:29,042 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:22:29,043 - python_multipart.multipart - DEBUG - Calling on_header_field with data[1329:1348]
+2024-12-17 12:22:29,043 - python_multipart.multipart - DEBUG - Calling on_header_value with data[1350:1375]
+2024-12-17 12:22:29,043 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:22:29,044 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:22:29,044 - python_multipart.multipart - DEBUG - Calling on_part_data with data[1379:1380]
+2024-12-17 12:22:29,044 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:22:29,045 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:22:29,045 - api - INFO - Processing PDF for user 1...
+2024-12-17 12:22:29,047 - api - INFO - File PFI LODHIA - 2024-11-08T115526.858.pdf saved to pdf\1\PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 12:22:32,678 - api - INFO - Answer extracted: {'header': {'Supplier Name': ' SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2160000.0}}
+2024-12-17 12:22:32,681 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 12:22:32,847 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 12:22:32,848 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 12:22:33,117 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:24:22,733 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:24:22,734 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:24:22,735 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:139]
+2024-12-17 12:24:22,736 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:24:22,737 - python_multipart.multipart - DEBUG - Calling on_header_field with data[141:153]
+2024-12-17 12:24:22,737 - python_multipart.multipart - DEBUG - Calling on_header_value with data[155:170]
+2024-12-17 12:24:22,743 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:24:22,744 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:24:22,745 - python_multipart.multipart - DEBUG - Calling on_part_data with data[174:1460]
+2024-12-17 12:24:22,745 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:7300]
+2024-12-17 12:24:22,837 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,838 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:24:22,839 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:24:22,845 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,846 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:24:22,846 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:24:22,863 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:16060]
+2024-12-17 12:24:22,864 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,866 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,867 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:24:22,869 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,869 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:20440]
+2024-12-17 12:24:22,870 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:24:22,871 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,872 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:14600]
+2024-12-17 12:24:22,873 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:11680]
+2024-12-17 12:24:22,873 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:2920]
+2024-12-17 12:24:22,886 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:24:22,887 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:829]
+2024-12-17 12:24:22,887 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:24:22,888 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:24:22,888 - python_multipart.multipart - DEBUG - Calling on_header_field with data[873:892]
+2024-12-17 12:24:22,889 - python_multipart.multipart - DEBUG - Calling on_header_value with data[894:919]
+2024-12-17 12:24:22,889 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:24:22,889 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:24:22,890 - python_multipart.multipart - DEBUG - Calling on_part_data with data[923:924]
+2024-12-17 12:24:22,890 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:24:22,890 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:24:22,891 - api - INFO - Processing PDF for user 2...
+2024-12-17 12:24:22,932 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\2\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:24:27,698 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:24:27,703 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 12:24:27,904 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 12:24:27,906 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 12:24:28,057 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:24:28,095 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:26:49,061 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:26:49,062 - python_multipart.multipart - DEBUG - Calling on_header_field with data[42:61]
+2024-12-17 12:26:49,063 - python_multipart.multipart - DEBUG - Calling on_header_value with data[63:139]
+2024-12-17 12:26:49,064 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:26:49,065 - python_multipart.multipart - DEBUG - Calling on_header_field with data[141:153]
+2024-12-17 12:26:49,066 - python_multipart.multipart - DEBUG - Calling on_header_value with data[155:170]
+2024-12-17 12:26:49,067 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:26:49,067 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:26:49,068 - python_multipart.multipart - DEBUG - Calling on_part_data with data[174:10220]
+2024-12-17 12:26:49,071 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:16060]
+2024-12-17 12:26:49,073 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:11680]
+2024-12-17 12:26:49,075 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:5840]
+2024-12-17 12:26:49,078 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:20440]
+2024-12-17 12:26:49,078 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:26:49,079 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:26:49,081 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:20440]
+2024-12-17 12:26:49,081 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:26:49,082 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:1460]
+2024-12-17 12:26:49,083 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:8760]
+2024-12-17 12:26:49,083 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:11680]
+2024-12-17 12:26:49,084 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:829]
+2024-12-17 12:26:49,084 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:26:49,085 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:26:49,085 - python_multipart.multipart - DEBUG - Calling on_header_field with data[873:892]
+2024-12-17 12:26:49,086 - python_multipart.multipart - DEBUG - Calling on_header_value with data[894:919]
+2024-12-17 12:26:49,086 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:26:49,086 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:26:49,087 - python_multipart.multipart - DEBUG - Calling on_part_data with data[923:924]
+2024-12-17 12:26:49,088 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:26:49,088 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:26:49,088 - api - INFO - Processing PDF for user 2...
+2024-12-17 12:26:49,089 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\2\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:26:55,246 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '34110.76'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '14841.81', 'Total': '14841.81'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '19268.95', 'Total': '19268.95'}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': '34110.76'}}
+2024-12-17 12:26:55,250 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 12:26:55,433 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 12:26:55,434 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 12:26:55,633 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:26:55,735 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:30:07,539 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:30:07,559 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:30:07,560 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:30:07,560 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:30:07,560 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:30:07,560 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:30:07,562 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:30:07,562 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:111615]
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111671:111690]
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111692:111717]
+2024-12-17 12:30:07,563 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:30:07,564 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:30:07,564 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111721:111726]
+2024-12-17 12:30:07,564 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:30:07,565 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:30:07,565 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:30:07,567 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:30:13,761 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Unit Price': 14841.81, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Unit Price': 19268.95, 'Total': 19268.95}], 'Total': {'Total Before Tax': 34110.76, 'Total Discount': 0, 'VAT Amount': 0}}
+2024-12-17 12:30:13,762 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:30:14,098 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:30:14,099 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:30:14,391 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:30:14,414 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:35:07,933 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:35:07,934 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:35:07,934 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:35:07,935 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:35:07,935 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:35:07,935 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:35:07,936 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:35:07,936 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:35:07,937 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:111615]
+2024-12-17 12:35:07,937 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:35:07,937 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:35:07,938 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111671:111690]
+2024-12-17 12:35:07,938 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111692:111717]
+2024-12-17 12:35:07,938 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:35:07,938 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:35:07,938 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111721:111726]
+2024-12-17 12:35:07,939 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:35:07,939 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:35:07,939 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:35:07,940 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:35:15,166 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; VAT: 101-762-424', 'Supplied To': 'BENI IMPEX\n237/8, SONAL LINK INDUSTRIAL.ESTATE,\nBLDG;NO.2,LINK ROAD,MALAD(W),\nMUMBAI - 400 064.INDIA.', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:35:15,169 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:35:15,394 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:35:15,396 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:35:15,561 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:35:15,739 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:39:10,722 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:39:10,723 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:39:10,724 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:39:10,724 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:39:10,725 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:39:10,725 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:39:10,725 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:39:10,726 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:39:10,726 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:111615]
+2024-12-17 12:39:10,727 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:39:10,727 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:39:10,727 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111671:111690]
+2024-12-17 12:39:10,728 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111692:111717]
+2024-12-17 12:39:10,728 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:39:10,728 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:39:10,729 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111721:111726]
+2024-12-17 12:39:10,729 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:39:10,729 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:39:10,729 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:39:10,730 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:39:17,706 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; VAT: 101-762-424', 'Supplied To': 'BENI IMPEX\n237/8, SONAL LINK INDUSTRIAL.ESTATE,\nBLDG;NO.2,LINK ROAD,MALAD(W),\nMUMBAI - 400 064.INDIA.', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '34110.76'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '14841.81', 'Total': '14841.81'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '19268.95', 'Total': '19268.95'}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': '34110.76'}}
+2024-12-17 12:39:17,710 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:39:18,017 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:39:18,018 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:39:18,162 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:39:18,207 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:40:50,870 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:40:50,870 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:40:50,871 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:40:50,871 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:40:50,872 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:40:50,872 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:40:50,872 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:40:50,872 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:40:50,873 - python_multipart.multipart - DEBUG - Calling on_part_data with data[186:111801]
+2024-12-17 12:40:50,873 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:40:50,873 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:40:50,873 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111857:111876]
+2024-12-17 12:40:50,873 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111878:111903]
+2024-12-17 12:40:50,874 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:40:50,874 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:40:50,875 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111907:111912]
+2024-12-17 12:40:50,875 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:40:50,875 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:40:50,876 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:40:50,877 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:40:57,247 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '34110.76'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:40:57,251 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:40:57,467 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:40:57,468 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:40:57,624 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:40:57,695 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:44:55,256 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:44:55,257 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:44:55,258 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:44:55,258 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:44:55,259 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:44:55,259 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:44:55,259 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:44:55,260 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:44:55,260 - python_multipart.multipart - DEBUG - Calling on_part_data with data[186:111801]
+2024-12-17 12:44:55,260 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:44:55,261 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:44:55,261 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111857:111876]
+2024-12-17 12:44:55,262 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111878:111903]
+2024-12-17 12:44:55,262 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:44:55,262 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:44:55,262 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111907:111912]
+2024-12-17 12:44:55,263 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:44:55,263 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:44:55,263 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:44:55,264 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:45:01,346 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '34110.76'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '14841.81', 'Total': '14841.81'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': '1.000', 'Unit': 'PCS', 'Unit Price': '19268.95', 'Total': '19268.95'}], 'Total': {'Total': '34110.76'}}
+2024-12-17 12:45:01,347 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:45:01,639 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:45:01,641 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:45:01,786 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:45:01,836 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:45:31,668 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:45:31,668 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:45:31,669 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:45:31,669 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:45:31,669 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:45:31,670 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:45:31,670 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:45:31,671 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:45:31,671 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:111615]
+2024-12-17 12:45:31,672 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:45:31,672 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:45:31,672 - python_multipart.multipart - DEBUG - Calling on_header_field with data[111671:111690]
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_header_value with data[111692:111717]
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_part_data with data[111721:111726]
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:45:31,673 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:45:31,675 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:45:31,676 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:45:38,051 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:45:38,054 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:45:38,416 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:45:38,418 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:45:38,605 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:45:38,650 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:47:11,547 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:47:11,547 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:47:11,548 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:47:11,548 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:47:11,548 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:47:11,549 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:47:11,549 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:47:11,549 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:47:11,549 - python_multipart.multipart - DEBUG - Calling on_part_data with data[186:65722]
+2024-12-17 12:47:11,550 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:46079]
+2024-12-17 12:47:11,550 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:47:11,550 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:47:11,550 - python_multipart.multipart - DEBUG - Calling on_header_field with data[46135:46154]
+2024-12-17 12:47:11,551 - python_multipart.multipart - DEBUG - Calling on_header_value with data[46156:46181]
+2024-12-17 12:47:11,551 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:47:11,552 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:47:11,552 - python_multipart.multipart - DEBUG - Calling on_part_data with data[46185:46190]
+2024-12-17 12:47:11,553 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:47:11,553 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:47:11,554 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:47:11,555 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:47:16,089 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:47:16,093 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:47:16,308 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:47:16,309 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:47:16,481 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:47:16,536 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:48:27,847 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:48:27,848 - python_multipart.multipart - DEBUG - Calling on_header_field with data[54:73]
+2024-12-17 12:48:27,849 - python_multipart.multipart - DEBUG - Calling on_header_value with data[75:151]
+2024-12-17 12:48:27,849 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:48:27,849 - python_multipart.multipart - DEBUG - Calling on_header_field with data[153:165]
+2024-12-17 12:48:27,850 - python_multipart.multipart - DEBUG - Calling on_header_value with data[167:182]
+2024-12-17 12:48:27,850 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:48:27,851 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:48:27,851 - python_multipart.multipart - DEBUG - Calling on_part_data with data[186:65722]
+2024-12-17 12:48:27,851 - python_multipart.multipart - DEBUG - Calling on_part_data with data[0:46079]
+2024-12-17 12:48:27,852 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:48:27,852 - python_multipart.multipart - DEBUG - Calling on_part_begin with no data
+2024-12-17 12:48:27,852 - python_multipart.multipart - DEBUG - Calling on_header_field with data[46135:46154]
+2024-12-17 12:48:27,852 - python_multipart.multipart - DEBUG - Calling on_header_value with data[46156:46181]
+2024-12-17 12:48:27,852 - python_multipart.multipart - DEBUG - Calling on_header_end with no data
+2024-12-17 12:48:27,854 - python_multipart.multipart - DEBUG - Calling on_headers_finished with no data
+2024-12-17 12:48:27,854 - python_multipart.multipart - DEBUG - Calling on_part_data with data[46185:46190]
+2024-12-17 12:48:27,855 - python_multipart.multipart - DEBUG - Calling on_part_end with no data
+2024-12-17 12:48:27,855 - python_multipart.multipart - DEBUG - Calling on_end with no data
+2024-12-17 12:48:27,856 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:48:27,856 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:48:33,119 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:48:33,121 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:48:33,440 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:48:33,441 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:48:33,561 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:48:33,613 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:49:12,909 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:49:12,911 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:49:19,082 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:49:19,085 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:49:19,290 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:49:19,292 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:49:19,496 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:49:19,554 - api - INFO - Stored: Data inserted successfully
+2024-12-17 12:49:19,567 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 12:49:19,577 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:55:15,609 - api - INFO - Processing PDF for user 2...
+2024-12-17 12:55:15,611 - api - INFO - File quotenodifferent.pdf saved to pdf\2\quotenodifferent.pdf
+2024-12-17 12:55:19,813 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Sales Managers', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 12:55:19,814 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 12:55:19,917 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 12:55:19,918 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 12:55:20,141 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:55:20,195 - api - INFO - Stored: Data inserted successfully
+2024-12-17 12:55:20,200 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 12:55:20,209 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:58:21,495 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:58:21,496 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 12:58:27,734 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 12:58:27,736 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 12:58:28,046 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 12:58:28,048 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 12:58:28,226 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 12:58:28,282 - api - INFO - Stored: Data inserted successfully
+2024-12-17 12:58:28,288 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 12:58:28,300 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 12:58:43,265 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:58:43,266 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 12:58:46,371 - api - ERROR - Error processing PDF for user 12262: 'NoneType' object has no attribute 'replace' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 81, in process_pdf
+    ans = answer(read)
+          ^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 139, in answer
+    answer['header']['Supplier Name']=(answer['header']['Supplier Name']).replace("TEAM","")
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'replace'
+2024-12-17 12:59:42,385 - api - INFO - Processing PDF for user 12262...
+2024-12-17 12:59:42,386 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 12:59:46,983 - api - ERROR - Error processing PDF for user 12262: 'NoneType' object has no attribute 'replace' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 81, in process_pdf
+    ans = answer(read)
+          ^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 139, in answer
+    answer['header']['Supplier Name']=(answer['header']['Supplier Name']).replace("TEAM","")
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'replace'
+2024-12-17 13:00:13,953 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:00:13,955 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 13:00:18,421 - api - ERROR - Error processing PDF for user 12262: 'NoneType' object has no attribute 'replace' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 81, in process_pdf
+    ans = answer(read)
+          ^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 140, in answer
+    answer['header']['Supplier Name']=(answer['header']['Supplier Name']).replace("TEAM","")
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'replace'
+2024-12-17 13:01:29,347 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:01:29,348 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 13:01:33,884 - api - INFO - Answer extracted: {'header': {'Supplier Name': None, 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:01:33,885 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:01:33,992 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:01:33,993 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:01:34,133 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:01:34,171 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:01:34,176 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:01:34,186 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:03:09,296 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:03:09,298 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 13:03:09,319 - api - INFO - 
+ 
+ Reade File: S.No
+Remarks :
+Prepared By :
+Amount in Words :
+Item Code
+Customer Code & Name:
+Customer Address:
+C-1000081-CRP
+/
+Customer Code & Name: Customer Address:
+16TH FLOOR B WING GOLDEN JUBILEE TOWERS GHANA AVENUE
+Make
+VRN No.
+ TIN No. 
+11012285Q
+101762424
+Ref No.
+S.No
+Item Code
+Item Description
+Make
+UoM
+ 
+Qty
+ Unit Price
+  Disc.%
+1
+SCH25518
+NU216-E-XL-TVP2-C3
+FAG
+PCS
+ 4.00 
+ 300,000.00
+ 5.00
+EXCHANGE RATE
+PI No.
+PI Date
+ 101884
+ 1.00
+Gross Value
+ 4,460,400.00
+ 1,140,000.00
+ 205,200.00
+ 101884
+02/11/2024
+TZS
+ 1.00
+Total
+ 1,345,200.00P
+2
+SCH25514
+NU216-E-XL-M1-C3
+S
+FAG
+PCS
+ 4.00 
+ 660,000.00
+ 0.00
+ 2,640,000.00
+ 475,200.00
+ 3,115,200.00
+Amount in Words :
+TZS-Four Million Four Hundred Sixty Thousand Four Hundred And Zero Cent Only
+Remarks :
+TVP2 - EX STOCK M1 - C3 -2 PCS STOCK REMANING 3 WEEKS
+Terms & Conditions Apply
+1. Proforma Invoice is valid for 15 days only from the date of document.
+ 2. Price may change without prior notice. 3. Error and ommisions expected. 4. Any change in the design after finalization will lead to change in the price subsequently.
+  
+ 5. Once goods delivered will not be replaced.
+Total Before Tax : Total Disc: Total After Disc:
+TZS TZS TZS
+ 3,840,000.00  60,000.00  3,780,000.00
+VAT Amountl:
+TZS
+ 680,400.00
+Total:
+TZS
+ 4,460,400.00
+Bank Details:
+PAYMENT CAN BE MADE BY CHEQUE / TT / CASH USING FOLLOWING ACCOUNT NO:
+Payments terms: ADVANCE. EXIM Bank LIMITED,Dar Es Salaam, Tanzania A/C No. TZS 0300072003S
+TZS
+TZS
+TZS
+0300072117
+EXTNTZTZ
+TZS
+CRDB Bank LIMITED,Viva Premier Club, Dar Es Salaam, Tanzania A/C No. 
+0150556581000
+PRO-FORMA INVOICE
+0250556581000 
+CORUTZTZ
+VRN NO: 10-003965-E
+Email: info@setl.co.tz
+Prepared By :
+Sales Managers
+Customer Signature
+Page 1 of 1
+ 
+ 
+
+2024-12-17 13:03:13,915 - api - INFO - Answer extracted: {'header': {'Supplier Name': None, 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'Total': 1140000.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:03:13,917 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:03:14,034 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:03:14,035 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:03:14,195 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:03:14,217 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:03:14,222 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:03:14,230 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:06:35,049 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:06:35,050 - api - INFO - File Eastern Software Solutions Private Limited-12 (2) (1).pdf saved to pdf\12262\Eastern Software Solutions Private Limited-12 (2) (1).pdf
+2024-12-17 13:06:35,166 - api - INFO - 
+ 
+ Reade File: Tax Invoice
+(ORIGINAL FOR RECIPIENT)
+Ankur Timber Electricals
+C - 4, Sector-9, Noida
+UDYAM : UDYAM-UP-28-0092333 (Micro)
+GSTIN/UIN: 09BKIPG1120Q1Z1
+State Name :  Uttar Pradesh, Code : 09
+Contact : 0120-4260244,9910585150
+E-Mail : ankurtimberelectricals@gmail.com
+Consignee (Ship to)
+Eastern Software Solutions Private Limited
+B-65, Sector-63, Noida, Gautambuddha Nagar
+GSTIN/UIN
+: 09AAHCE1550D1ZY
+PAN/IT No 
+: AAHCE1550D
+State Name 
+: Uttar Pradesh, Code : 09
+Contact
+: 8447962662
+Buyer (Bill to)
+Eastern Software Solutions Private Limited
+B-65, Sector-63, Noida, Gautambuddha Nagar
+GSTIN/UIN
+: 09AAHCE1550D1ZY
+PAN/IT No 
+: AAHCE1550D
+State Name 
+: Uttar Pradesh, Code : 09
+Contact
+: 8447962662
+Invoice No.
+ATE/744/2024-25
+Delivery Note
+Reference No. & Date.
+Buyer’s Order No.
+Dispatch Doc No.
+Dispatched through
+Dated
+24-Nov-24
+Mode/Terms of Payment
+Other References
+Dated
+Delivery Note Date
+Destination
+Terms of Delivery
+Sl
+Description of Goods
+Amount
+per
+Rate
+Quantity
+HSN/SAC
+No.
+1 Qubo Air Purifier Q400 White
+8,050.85
+Pcs.
+8,050.85
+1 Pcs.
+8421
+CGST @9%
+724.58
+%
+9
+SGST @9%
+724.58
+%
+9
+Less :
+Round Off
+(-)0.01
+Total
+9,500.00
+1 Pcs.
+Amount Chargeable (in words)
+INR Nine Thousand Five Hundred Only
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+E. & O.E
+Company’s Bank Details
+Bank Name
+: HDFC BANK
+A/c No.
+: 50200057889361
+Branch & IFS Code
+: Sector-26, Noida & HDFC0000651
+for Ankur Timber Electricals
+Authorised Signatory
+This is a Computer Generated Invoice
+ 
+ 
+
+2024-12-17 13:06:37,390 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-Nov-24', 'CURRENCY': 'INR'}, 'line_items': [{'Item Code': '8421', 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 1449.16, 'Total': 9500.0}], 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0.01, 'VAT Amount': 1449.16, 'Total': 9500.0}}
+2024-12-17 13:06:37,392 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:06:37,505 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:06:37,505 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:06:37,678 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:06:37,715 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:06:37,724 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:06:37,735 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:07:33,237 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:07:33,238 - api - INFO - File PFI LODHIA - 2024-11-08T115526.858.pdf saved to pdf\12262\PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 13:07:33,253 - api - INFO - 
+ 
+ Reade File: TZS
+Currency:
+Proforma Invoice No:
+Customer No:
+Date:
+Valid Until:
+HE140
+04/11/2024
+04/12/2024
+TANZANIA
+LODHIA INDUSTRIES LTD
+Kamata, Near Mkuki Mall, Nyerere Road, P.O Box 38360  Dar Es Salaam, Tanzania.
+0679 991 221 / 0677 073 402 / 0677 142 648
+VRN No: 40-000266-P   TIN : 105-332-823
+PROFORMA INVOICE/QUOTATION
+TIN:
+Attn:  
+REF NUMBER:
+QU180065
+VRN:
+11-012285-Q
+101-762-424
+QTY
+Unit
+Description
+TOTAL
+Unit Price EX VAT
+No
+ 3
+PCS
+PU PIPE 10MM - 100 MTR / ROLL
+ 720,000.00
+ 240,000.00
+ 1
+ 3
+PCS
+PU PIPE 8MM - 100 MTR / ROLL
+ 540,000.00
+ 180,000.00
+ 2
+ 3
+PCS
+PU PIPE 12MM - 100 MTR / ROLL
+ 900,000.00
+ 300,000.00
+ 3
+Terms & Conditions:
+Delivery:
+Note:   Quoted prices may be altered without prior notice, Item 
+Subject to Availability of Stock
+ 2,160,000.00
+ 388,800.00
+ 2,548,800.00
+TOTAL (Inc VAT) :
+TOTAL (Exl VAT) :
+VAT :
+Our Bank Details:
+Beneficiary Name:  
+SAI OFFICE SUPPLIES (TZ) LIMITED    
+I&M BANK A/C (TZS):
+30003775003
+DTB BANK A/C (TZS):
+0801275001
+CRDB BANK A/C (TZS): 
+0150403088800
+NMB BANK A/C (TZS): 
+22310047038
+I&M BANK A/C (USD):
+30003775004
+CRDB BANK A/C (USD): 
+0250403088800
+We thank you for your enquiry and look forward for your confirmed 
+order.
+Regards,
+TEAM SAI OFFICE
+REMARKS:
+Page 1 of 1
+Print date: 04/11/2024
+Print Time: 11:46:27AM
+Created By: KEYUR PARMAR
+ 
+ 
+
+2024-12-17 13:07:36,756 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 2160000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 1620000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 2700000.0}], 'Total': {'Total Before Tax': 6480000.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 13:07:36,758 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:07:37,030 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:07:37,032 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:07:37,179 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:07:37,248 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:07:37,254 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:07:37,264 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:08:39,325 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:08:39,326 - api - INFO - File PFI LODHIA - 2024-11-08T115526.858.pdf saved to pdf\12262\PFI LODHIA - 2024-11-08T115526.858.pdf
+2024-12-17 13:08:39,340 - api - INFO - 
+ 
+ Reade File: TZS
+Currency:
+Proforma Invoice No:
+Customer No:
+Date:
+Valid Until:
+HE140
+04/11/2024
+04/12/2024
+TANZANIA
+LODHIA INDUSTRIES LTD
+Kamata, Near Mkuki Mall, Nyerere Road, P.O Box 38360  Dar Es Salaam, Tanzania.
+0679 991 221 / 0677 073 402 / 0677 142 648
+VRN No: 40-000266-P   TIN : 105-332-823
+PROFORMA INVOICE/QUOTATION
+TIN:
+Attn:  
+REF NUMBER:
+QU180065
+VRN:
+11-012285-Q
+101-762-424
+QTY
+Unit
+Description
+TOTAL
+Unit Price EX VAT
+No
+ 3
+PCS
+PU PIPE 10MM - 100 MTR / ROLL
+ 720,000.00
+ 240,000.00
+ 1
+ 3
+PCS
+PU PIPE 8MM - 100 MTR / ROLL
+ 540,000.00
+ 180,000.00
+ 2
+ 3
+PCS
+PU PIPE 12MM - 100 MTR / ROLL
+ 900,000.00
+ 300,000.00
+ 3
+Terms & Conditions:
+Delivery:
+Note:   Quoted prices may be altered without prior notice, Item 
+Subject to Availability of Stock
+ 2,160,000.00
+ 388,800.00
+ 2,548,800.00
+TOTAL (Inc VAT) :
+TOTAL (Exl VAT) :
+VAT :
+Our Bank Details:
+Beneficiary Name:  
+SAI OFFICE SUPPLIES (TZ) LIMITED    
+I&M BANK A/C (TZS):
+30003775003
+DTB BANK A/C (TZS):
+0801275001
+CRDB BANK A/C (TZS): 
+0150403088800
+NMB BANK A/C (TZS): 
+22310047038
+I&M BANK A/C (USD):
+30003775004
+CRDB BANK A/C (USD): 
+0250403088800
+We thank you for your enquiry and look forward for your confirmed 
+order.
+Regards,
+TEAM SAI OFFICE
+REMARKS:
+Page 1 of 1
+Print date: 04/11/2024
+Print Time: 11:46:27AM
+Created By: KEYUR PARMAR
+ 
+ 
+
+2024-12-17 13:08:44,278 - api - INFO - Answer extracted: {'header': {'Supplier Name': ' SAI OFFICE', 'PI No.': 'HE140', 'PI Date': '04-11-2024', 'CURRENCY': 'TZS'}, 'line_items': [{'Item Code': None, 'Item Description': 'PU PIPE 10MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 720000.0, 'VAT': None, 'Total': 240000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 8MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 540000.0, 'VAT': None, 'Total': 180000.0}, {'Item Code': None, 'Item Description': 'PU PIPE 12MM - 100 MTR / ROLL', 'Qty': 3, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 900000.0, 'VAT': None, 'Total': 300000.0}], 'Total': {'Total Before Tax': 2548800.0, 'Total Discount': None, 'VAT Amount': 388800.0, 'Total': 2548800.0}}
+2024-12-17 13:08:44,280 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:08:44,487 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:08:44,489 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:08:44,609 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 13:09:13,217 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:09:13,218 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:09:13,305 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:09:18,021 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'LODHIA INDUSTRIES LTD', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 34110.76}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 34110.76}}
+2024-12-17 13:09:18,027 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:09:18,366 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:09:18,369 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:09:18,502 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:09:18,528 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:09:18,565 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:09:18,572 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:20:37,124 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:20:37,126 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:20:37,152 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:20:37,297 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:38,402 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:40,284 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:40,284 - google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-12-17 13:20:40,285 - api - ERROR - Error processing PDF for user 12262: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information. 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 120, in answer
+    sample_file = genai.upload_file(file_path, mime_type="application/pdf")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\files.py", line 59, in upload_file
+    client = get_default_file_client()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 350, in get_default_file_client
+    return _client_manager.get_default_client("file")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 287, in get_default_client
+    client = self.make_client(name)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 247, in make_client
+    raise e
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 239, in make_client
+    client = cls(**self.client_config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 67, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\client.py", line 660, in __init__
+    self._transport = transport_init(
+                      ^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\transports\grpc.py", line 154, in __init__
+    super().__init__(
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\transports\base.py", line 101, in __init__
+    credentials, _ = google.auth.default(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\auth\_default.py", line 693, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2024-12-17 13:20:42,453 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:20:42,454 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:20:42,475 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:20:42,509 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:43,442 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:45,448 - google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+2024-12-17 13:20:45,448 - google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-12-17 13:20:45,450 - api - ERROR - Error processing PDF for user 12262: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information. 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 120, in answer
+    sample_file = genai.upload_file(file_path, mime_type="application/pdf")
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\files.py", line 59, in upload_file
+    client = get_default_file_client()
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 350, in get_default_file_client
+    return _client_manager.get_default_client("file")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 287, in get_default_client
+    client = self.make_client(name)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 247, in make_client
+    raise e
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 239, in make_client
+    client = cls(**self.client_config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\generativeai\client.py", line 67, in __init__
+    super().__init__(*args, **kwargs)
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\client.py", line 660, in __init__
+    self._transport = transport_init(
+                      ^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\transports\grpc.py", line 154, in __init__
+    super().__init__(
+  File "D:\New Folder\myenv\Lib\site-packages\google\ai\generativelanguage_v1beta\services\file_service\transports\base.py", line 101, in __init__
+    credentials, _ = google.auth.default(
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\myenv\Lib\site-packages\google\auth\_default.py", line 693, in default
+    raise exceptions.DefaultCredentialsError(_CLOUD_SDK_MISSING_CREDENTIALS)
+google.auth.exceptions.DefaultCredentialsError: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2024-12-17 13:22:01,380 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:22:01,381 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:22:01,406 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:22:34,612 - api - ERROR - Error processing PDF for user 12262: Expecting value: line 1 column 1 (char 0) 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 148, in answer
+    answer=json.loads(response.text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2024-12-17 13:25:19,960 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:25:19,960 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:25:19,988 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:25:48,369 - api - ERROR - Error processing PDF for user 12262: 'Supplier Name' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 150, in answer
+    print(type(answer['header']['Supplier Name']))
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'Supplier Name'
+2024-12-17 13:27:39,432 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:27:39,434 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:27:39,463 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:28:09,407 - api - ERROR - Error processing PDF for user 12262: 'Supplier Name' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 150, in answer
+    print(type(answer['header']['Supplier Name']))
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'Supplier Name'
+2024-12-17 13:28:43,912 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:28:43,913 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:28:43,938 - api - INFO - 
+ 
+ Reade File: PROFORMA INVOICE
+Notify
+Pro. Inv. No. &  Date
+Amount
+Rate
+Quantity
+Description of Goods
+Port of Loading
+Final Destination
+Port of Discharge
+Terms  of Delivery and Payment
+Country of Final Destination
+Country of Origin of Goods
+Other Reference(s)
+Exporter's Ref.
+Exporter
+Carriage by
+Buyer's Order No. & Date
+Consignee
+Place of Receipt by 
+Pre-carrier
+Buyer(if other than Consignee)
+BI/5350/2023-2024/A
+TANZANIA
+DAR ES SALAAM
+NHAVA SHEVA
+AT 180 DAYS FROM DATE OF BL, THRU EXIM BANK TANZANIA LIMITED
+1404/5, EXIM TOWER, GHANA AVENUE, 
+PO BOX 1431, DAR-ES-SALAAM, TANZANIA
+SWIFT: EXTNTZTZ, ACC NO: 0780450119
+TANZANIA
+INDIA
+LODHIA INDUSTRIES LTD, P.O.BOX 75778, DAR-ES-SALAAM, 
+TANZANIA, PHONE: +255-2211-3258/59, PIN: 11-01-2285-Q; 
+VAT: 101-762-424
+____
+ORDER OF EXIM BANK TANZANIA LIMITED, Exim Towers, 1404/5, 
+Ghana Avenue, P.O.Box 1431, Dar-Es-Salaam, Tanzania
+TO THE
+PLASTIC SHED PANELS, REV 1
+15-01-2024
+BENI IMPEX
+237/8, SONAL LINK INDUSTRIAL.ESTATE,
+BLDG;NO.2,LINK ROAD,MALAD(W),
+MUMBAI - 400 064.INDIA.
+PH.: 02240620000 FAX: 
+Unit
+HSN
+ Code
+SR 
+No.
+PLASTIC PANELS
+USD, FOB
+USD, FOB
+PCS
+Delivery
+Date
+ELECTRICAL PANEL,  NEW PLASTIC MAIN PCC PANEL, MAIN 
+INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 
+1, 625A FOR NEW PLASTIC , OUTGOING FEEDER 2, 1000A 
+FOR OLD PLASTIC PLANT  , OUTGOING FEEDER 3, 1200A FOR, 
+OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL   
+85371000
+ 14841.81
+ 14841.8100
+PCS
+ 1.000
+ 1
+4 TO 6 
+WEEKS
+ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL)WITH 
+ENERGY METER; MAIN INCOMER 3200 A 3POLE AND 
+NETURAL,       DG INCOMER 800A , OUTGOING FEEDER 1, 
+400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR 
+MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, 
+OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING 
+FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR 
+SPARE  , OUTGOING FEEDER 5,400A FOR SPARE  , OUTGOING 
+FEEDER 5,400A FOR  SPARE, OUTGOING FEEDER 5,400A FOR 
+SPARE  
+85371000
+ 19268.95
+ 19268.9500
+PCS
+ 1.000
+ 2
+4 TO 6 
+WEEKS
+described and that all particulars are true and  correct.
+Declaration :
+We declare that this Proforma Invoice shows actual price of the goods
+Page 1 of 3
+ 34110.76
+Contd........
+For BENI IMPEX
+ 
+ 
+
+2024-12-17 13:29:14,188 - api - ERROR - Error processing PDF for user 12262: 'Supplier Name' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 150, in answer
+    print(type(answer['header']['Supplier Name']))
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+KeyError: 'Supplier Name'
+2024-12-17 13:29:46,172 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:29:46,174 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:30:13,319 - api - ERROR - Error processing PDF for user 12262: Expecting property name enclosed in double quotes: line 2 column 2 (char 2) 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 84, in process_pdf
+    ans = answer(file_path)
+          ^^^^^^^^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\main.py", line 153, in answer
+    answer=json.loads(answer)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 2 column 2 (char 2)
+2024-12-17 13:32:14,870 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:32:14,871 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:32:44,884 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'BENI IMPEX', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '102647.90'}, 'line_items': [{'HSN Code': '85371000', 'Description': 'ELECTRICAL PANEL, NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC, OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT, OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '14841.8100', 'Amount': '14841.81', 'Delivery Date': '4 TO 6 WEEKS'}, {'HSN Code': '85371000', 'Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL) WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL, DG INCOMER 800A, OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '19268.9500', 'Amount': '19268.95', 'Delivery Date': '4 TO 6 WEEKS'}, {'HSN Code': '85371000', 'Description': 'ELECTRICAL PANEL, PCC + MCC PANEL (FEEDER PANEL) (WITH ENERGY METER); MAIN INCOMER 1600 A 3POLE AND NETURAL OUTGOING FEEDER 1, 100A FOR COMP.1, OUTGOING FEEDER 2, 100A FOR COMP.1, OUTGOING FEEDER 3, 100A FOR COMP.1, OUTGOING FEEDER 4, 100A FOR Air Drayer-1, OUTGOING FEEDER 5, 100A FOR Air Drayer-2, OUTGOING FEEDER 6, 400A FOR CHILLER-1, OUTGOING FEEDER 7, 400A FOR CHILLER-2, OUTGOING FEEDER 8, 400A FOR CHILLER -3, OUTGOING FEEDER 9, 400A FOR SPARE-1, OUTGOING FEEDER 11, 200A FOR SPARE-2, OUTGOING FEEDER 12, 200A FOR SPARE-3, STAR DELTA STARTER FOR WATER PUMP 11KW, STAR DELTA STARTER FOR WATER PUMP 11KW, D.O.L STARTER FOR WATER PUMP 5.5KW, D.O.L STARTER FOR WATER PUMP 5.5KW', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '13111.7200', 'Amount': '13111.72', 'Delivery Date': '4 TO 6 WEEKS'}, {'HSN Code': '85371000', 'Description': 'ELECTRICAL PANEL, POWER FACTOR PANEL; AUTO POWER FACTOR CONTROL (APFC) PANEL 480KVAR', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '8917.2900', 'Amount': '8917.29', 'Delivery Date': '4 TO 6 WEEKS'}, {'HSN Code': '85371000', 'Description': 'ELECTRICAL PANEL, CUSTOM BONDED WAREHOUSE, MAIN INCOMER WITTH MEM METER: 630 A; OUTGOING FEEDER 1: 250 A; OUTGOING FEEDER 2: 250 A; OUTGOING FEEDER 3: 125 A; OUTGOING FEEDER 4: 125 A; OUTGOING FEEDER 5.6.7.8.9.10: 63 A', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '4683.1900', 'Amount': '4683.19', 'Delivery Date': '4 TO 6 WEEKS'}, {'HSN Code': '85372000', 'Description': 'VCB PANEL, VCB BREAKER TYPE:- VD4/W36.12.32 AMPS:- 1250A COIL V:- 24VDC MOTOR V:- 230VAC RATED VOLT:- 36KV, ABB MAKE', 'Quantity': '2.000', 'Unit': 'PCS', 'Rate': '7585.4700', 'Amount': '15170.94', 'Delivery Date': '10 TO 14 WEEKS'}, {'HSN Code': '85043100', 'Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 500/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC : 26.3 kA/1 Sec.; Freq: 50 Hz; Insulation Class: B; Secondary Terminals on: P2 Side PRAGATI MAKE', 'Quantity': '3.000', 'Unit': 'PCS', 'Rate': '705.3700', 'Amount': '2116.11', 'Delivery Date': '8 TO 9 WEEKS'}, {'HSN Code': '85043100', 'Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 150/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.5.; Core2: 15 VA, Class 5P10.L STC: 31.5 kA/3 Secs.L Freq: 50 Hz Insulation Class: BL Secondary Terminals on: P2 Side, PRAGATI MAKE', 'Quantity': '3.000', 'Unit': 'PCS', 'Rate': '679.7200', 'Amount': '2039.16', 'Delivery Date': '8 TO 9 WEEKS'}, {'HSN Code': '85043100', 'Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 200/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1 : 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC: 26.3 kA/1 Sec.; Freq: 50 Hz; Class: B; Secondary Terminals on : P2 Side; PRAGATI MAKE', 'Quantity': '3.000', 'Unit': 'PCS', 'Rate': '692.5500', 'Amount': '2077.65', 'Delivery Date': '8 TO 9 WEEKS'}, {'HSN Code': '85042200', 'Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV/RT3/110V/RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse, Drg No.: AV-PT-33kV-03-T-1A, Rev.: 0', 'Quantity': '3.000', 'Unit': 'PCS', 'Rate': '333.5700', 'Amount': '1000.71', 'Delivery Date': '3 TO 4 WEEKS'}, {'HSN Code': '85042200', 'Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV RT3/110V RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse; Drg No. : AV-PT-33kV-03-T-1A, Rev.: 0', 'Quantity': '3.000', 'Unit': 'PCS', 'Rate': '333.5700', 'Amount': '1000.71', 'Delivery Date': '3 TO 4 WEEKS'}, {'HSN Code': '85369090', 'Description': 'MMAX POWER MAKE POWER PACK, I/P 90-270VAC ±10% 50Hz.± 5% O/P 24VDC/7AH', 'Quantity': '5.000', 'Unit': 'PCS', 'Rate': '140.4000', 'Amount': '702.00', 'Delivery Date': None}, {'HSN Code': '85361040', 'Description': 'FUSE, 36ABQNA3.15 3.15A/36 "Eaton Bussmann" PT/VT & Auxiliary Transformer Fuse: 3.15 A/36 kV.', 'Quantity': '20.000', 'Unit': 'PCS', 'Rate': '35.7800', 'Amount': '715.60', 'Delivery Date': None}, {'HSN Code': '85364900', 'Description': 'RELAY, ABB RELAY REJ-601', 'Quantity': '2.000', 'Unit': 'PCS', 'Rate': '493.7000', 'Amount': '987.40', 'Delivery Date': None}, {'HSN Code': '85364900', 'Description': 'RELAY, ABB RELAY REF-601', 'Quantity': '2.000', 'Unit': 'PCS', 'Rate': '565.2500', 'Amount': '1130.50', 'Delivery Date': None}, {'HSN Code': '85352129', 'Description': 'AUTO RECLOSURE, PANEL, TYPE: OVR-38, RATED VOLT, 38KV, RATED A 1200 A FREQ: 50/60, INSU LEVEL: 70/170KV PK, OPERATING SEQUENCE, O-02S-CO-2SCO-2S-CO, AUXILIARY SUPPLY VOLT: 240 VAC', 'Quantity': '1.000', 'Unit': 'PCS', 'Rate': '14884.1600', 'Amount': '14884.16', 'Delivery Date': '14 TO 15 WEEKS'}], 'Total': {}}
+2024-12-17 13:32:44,887 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:32:46,872 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:32:46,875 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:32:47,118 - api - INFO - Stored: Encountered an error while inserting
+2024-12-17 13:32:47,118 - api - INFO - Line Items : Not inserted as no suppliers found
+2024-12-17 13:32:47,126 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:34:44,292 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:34:44,293 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\12262\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:35:14,350 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'BENI IMPEX', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '102647.90'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC, OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT, OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL) WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL, DG INCOMER 800A, OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC + MCC PANEL (FEEDER PANEL) (WITH ENERGY METER); MAIN INCOMER 1600 A 3POLE AND NETURAL OUTGOING FEEDER 1, 100A FOR COMP.1, OUTGOING FEEDER 2, 100A FOR COMP.1, OUTGOING FEEDER 3, 100A FOR COMP.1, OUTGOING FEEDER 4, 100A FOR Air Drayer-1, OUTGOING FEEDER 5, 100A FOR Air Drayer-2, OUTGOING FEEDER 6, 400A FOR CHILLER-1, OUTGOING FEEDER 7, 400A FOR CHILLER-2, OUTGOING FEEDER 8, 400A FOR CHILLER -3, OUTGOING FEEDER 9, 400A FOR SPARE-1, OUTGOING FEEDER 11, 200A FOR SPARE-2, OUTGOING FEEDER 12, 200A FOR SPARE-3, STAR DELTA STARTER FOR WATER PUMP 11KW, STAR DELTA STARTER FOR WATER PUMP 11KW, D.O.L STARTER FOR WATER PUMP 5.5KW, D.O.L STARTER FOR WATER PUMP 5.5KW', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 13111.72, 'VAT': None, 'Total': 13111.72}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, POWER FACTOR PANEL; AUTO POWER FACTOR CONTROL (APFC) PANEL 480KVAR', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 8917.29, 'VAT': None, 'Total': 8917.29}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, CUSTOM BONDED WAREHOUSE, MAIN INCOMER WITTH MEM METER: 630 A; OUTGOING FEEDER 1: 250 A; OUTGOING FEEDER 2: 250 A; OUTGOING FEEDER 3: 125 A; OUTGOING FEEDER 4: 125 A; OUTGOING FEEDER 5.6.7.8.9.10: 63 A', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 4683.19, 'VAT': None, 'Total': 4683.19}, {'Item Code': '85372000', 'Item Description': 'VCB PANEL, VCB BREAKER TYPE:- VD4/W36.12.32 AMPS:- 1250A COIL V:- 24VDC MOTOR V:- 230VAC RATED VOLT:- 36KV, ABB MAKE', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 7585.47, 'VAT': None, 'Total': 15170.94}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 500/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC : 26.3 kA/1 Sec.; Freq: 50 Hz; Insulation Class: B; Secondary Terminals on: P2 Side PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 705.37, 'VAT': None, 'Total': 2116.11}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 150/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.5.; Core2: 15 VA, Class 5P10.L STC: 31.5 kA/3 Secs.L Freq: 50 Hz Insulation Class: BL Secondary Terminals on: P2 Side, PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 679.72, 'VAT': None, 'Total': 2039.16}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 200/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1 : 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC: 26.3 kA/1 Sec.; Freq: 50 Hz; Class: B; Secondary Terminals on : P2 Side; PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 692.55, 'VAT': None, 'Total': 2077.65}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV/RT3/110V/RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse, Drg No.: AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV RT3/110V RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse; Drg No. : AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85369090', 'Item Description': 'MMAX POWER MAKE POWER PACK, I/P 90-270VAC ±10% 50Hz.± 5% O/P 24VDC/7AH', 'Qty': 5.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 140.4, 'VAT': None, 'Total': 702.0}, {'Item Code': '85361040', 'Item Description': 'FUSE, 36ABQNA3.15 3.15A/36 "Eaton Bussmann" PT/VT & Auxiliary Transformer Fuse: 3.15 A/36 kV.', 'Qty': 20.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 35.78, 'VAT': None, 'Total': 715.6}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REJ-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 493.7, 'VAT': None, 'Total': 987.4}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REF-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 565.25, 'VAT': None, 'Total': 1130.5}, {'Item Code': '85352129', 'Item Description': 'AUTO RECLOSURE, PANEL, TYPE: OVR-38, RATED VOLT, 38KV, RATED A 1200 A FREQ: 50/60, INSU LEVEL: 70/170KV PK, OPERATING SEQUENCE, O-02S-CO-2SCO-2S-CO, AUXILIARY SUPPLY VOLT: 240 VAC', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14884.16, 'VAT': None, 'Total': 14884.16}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': 102647.9}}
+2024-12-17 13:35:14,353 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:35:16,052 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:35:16,054 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:35:16,327 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:35:16,394 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:35:16,410 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:35:50,217 - api - INFO - Processing PDF for user 1...
+2024-12-17 13:35:50,219 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\1\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:36:16,009 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'BENI IMPEX', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '102647.90'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC, OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT, OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '14841.8100', 'VAT': None, 'Total': '14841.81'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL) WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL, DG INCOMER 800A, OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '19268.9500', 'VAT': None, 'Total': '19268.95'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC + MCC PANEL (FEEDER PANEL) (WITH ENERGY METER); MAIN INCOMER 1600 A 3POLE AND NETURAL OUTGOING FEEDER 1, 100A FOR COMP.1, OUTGOING FEEDER 2, 100A FOR COMP.1, OUTGOING FEEDER 3, 100A FOR COMP.1, OUTGOING FEEDER 4, 100A FOR Air Drayer-1, OUTGOING FEEDER 5, 100A FOR Air Drayer-2, OUTGOING FEEDER 6, 400A FOR CHILLER-1, OUTGOING FEEDER 7, 400A FOR CHILLER-2, OUTGOING FEEDER 8, 400A FOR CHILLER -3, OUTGOING FEEDER 9, 400A FOR SPARE-1, OUTGOING FEEDER 11, 200A FOR SPARE-2, OUTGOING FEEDER 12, 200A FOR SPARE-3, STAR DELTA STARTER FOR WATER PUMP 11KW, STAR DELTA STARTER FOR WATER PUMP 11KW, D.O.L STARTER FOR WATER PUMP 5.5KW,', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '13111.7200', 'VAT': None, 'Total': '13111.72'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, POWER FACTOR PANEL; AUTO POWER FACTOR CONTROL (APFC) PANEL 480KVAR', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '8917.2900', 'VAT': None, 'Total': '8917.29'}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, CUSTOM BONDED WAREHOUSE, MAIN INCOMER WITTH MEM METER: 630 A; OUTGOING FEEDER 1: 250 A; OUTGOING FEEDER 2: 250 A; OUTGOING FEEDER 3: 125 A; OUTGOING FEEDER 4: 125 A; OUTGOING FEEDER 5.6.7.8.9.10: 63 A', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '4683.1900', 'VAT': None, 'Total': '4683.19'}, {'Item Code': '85372000', 'Item Description': 'VCB PANEL, VCB BREAKER TYPE:- VD4/W36.12.32 AMPS:- 1250A COIL V:- 24VDC MOTOR V:- 230VAC RATED VOLT:- 36KV, ABB MAKE', 'Qty': '2.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '7585.4700', 'VAT': None, 'Total': '15170.94'}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 500/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC : 26.3 kA/1 Sec.; Freq: 50 Hz; Insulation Class: B; Secondary Terminals on: P2 Side PRAGATI MAKE', 'Qty': '3.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '705.3700', 'VAT': None, 'Total': '2116.11'}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 150/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.5.; Core2: 15 VA, Class 5P10.L STC: 31.5 kA/3 Secs.L Freq: 50 Hz Insulation Class: BL Secondary Terminals on: P2 Side, PRAGATI MAKE', 'Qty': '3.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '679.7200', 'VAT': None, 'Total': '2039.16'}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 200/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1 : 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC: 26.3 kA/1 Sec.; Freq: 50 Hz; Class: B; Secondary Terminals on : P2 Side; PRAGATI MAKE', 'Qty': '3.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '692.5500', 'VAT': None, 'Total': '2077.65'}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV/RT3/110V/RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse, Drg No.: AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': '3.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '333.5700', 'VAT': None, 'Total': '1000.71'}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV RT3/110V RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse; Drg No. : AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': '3.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '333.5700', 'VAT': None, 'Total': '1000.71'}, {'Item Code': '85369090', 'Item Description': 'MMAX POWER MAKE POWER PACK, I/P 90-270VAC ±10% 50Hz.± 5% O/P 24VDC/7AH', 'Qty': '5.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '140.4000', 'VAT': None, 'Total': '702.00'}, {'Item Code': '85361040', 'Item Description': 'FUSE, 36ABQNA3.15 3.15A/36 "Eaton Bussmann" PT/VT & Auxiliary Transformer Fuse: 3.15 A/36 kV.', 'Qty': '20.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '35.7800', 'VAT': None, 'Total': '715.60'}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REJ-601', 'Qty': '2.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '493.7000', 'VAT': None, 'Total': '987.40'}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REF-601', 'Qty': '2.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '565.2500', 'VAT': None, 'Total': '1130.50'}, {'Item Code': '85352129', 'Item Description': 'AUTO RECLOSURE, PANEL, TYPE: OVR-38, RATED VOLT, 38KV, RATED A 1200 A FREQ: 50/60, INSU LEVEL: 70/170KV PK, OPERATING SEQUENCE, O-02S-CO-2SCO-2S-CO, AUXILIARY SUPPLY VOLT: 240 VAC', 'Qty': '1.000', 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': '14884.1600', 'VAT': None, 'Total': '14884.16'}], 'Total': {'Total Before Tax': None, 'Total Discount': None, 'VAT Amount': None, 'Total': '102647.90'}}
+2024-12-17 13:36:16,013 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 13:36:17,570 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 13:36:17,572 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 13:36:17,773 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 13:36:48,498 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:36:48,500 - api - INFO - File quotenodifferent.pdf saved to pdf\2\quotenodifferent.pdf
+2024-12-17 13:36:55,995 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': '4,460,400.00'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '5.00', 'Unit Price': '300,000.00', 'VAT': '205,200.00', 'Total': '1,345,200.00'}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '0.00', 'Unit Price': '660,000.00', 'VAT': '475,200.00', 'Total': '3,115,200.00'}], 'Total': {'Total Before Tax': '3,840,000.00', 'Total Discount': '60,000.00', 'VAT Amount': '680,400.00', 'Total': '4,460,400.00'}}
+2024-12-17 13:36:55,996 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:36:56,107 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:36:56,108 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:36:56,349 - api - INFO - Stored: Encountered an error while inserting
+2024-12-17 13:36:56,350 - api - INFO - Line Items : Not inserted as no suppliers found
+2024-12-17 13:36:56,359 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:37:11,740 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:37:11,778 - api - INFO - File fail.pdf saved to pdf\2\fail.pdf
+2024-12-17 13:37:19,938 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LT', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': '4,460,400.00'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '5.00', 'Unit Price': '300,000.00', 'VAT': '205,200.00', 'Total': '1,345,200.00'}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '0.00', 'Unit Price': '660,000.00', 'VAT': '475,200.00', 'Total': '3,115,200.00'}], 'Total': {'Total Before Tax': '3,840,000.00', 'Total Discount': '60,000.00', 'VAT Amount': '680,400.00', 'Total': '4,460,400.00'}}
+2024-12-17 13:37:19,939 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:37:20,054 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:37:20,055 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:37:20,217 - api - INFO - Stored: Encountered an error while inserting
+2024-12-17 13:37:20,217 - api - INFO - Line Items : Not inserted as no suppliers found
+2024-12-17 13:37:20,226 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:37:41,704 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:37:41,707 - api - INFO - File PI - 16304R.pdf saved to pdf\2\PI - 16304R.pdf
+2024-12-17 13:37:49,658 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': '4,460,400.00'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '5.00', 'Unit Price': '300,000.00', 'VAT': '205,200.00', 'Total': '1,345,200.00'}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '0.00', 'Unit Price': '600,000.00', 'VAT': '475,200.00', 'Total': '3,115,200.00'}], 'Total': {'Total Before Tax': '3,840,000.00', 'Total Discount': '60,000.00', 'VAT Amount': '680,400.00', 'Total': '4,460,400.00'}}
+2024-12-17 13:37:49,660 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:37:49,824 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:37:49,825 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:37:49,990 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 13:39:26,207 - api - INFO - Processing PDF for user 1...
+2024-12-17 13:39:26,208 - api - INFO - File PI - 16304R.pdf saved to pdf\1\PI - 16304R.pdf
+2024-12-17 13:39:32,656 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': '4,460,400.00'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '5.00', 'Unit Price': '300,000.00', 'VAT': '205,200.00', 'Total': '1,345,200.00'}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '0.00', 'Unit Price': '600,000.00', 'VAT': '475,200.00', 'Total': '3,115,200.00'}], 'Total': {'Total Before Tax': '3,840,000.00', 'Total Discount': '60,000.00', 'VAT Amount': '680,400.00', 'Total': '4,460,400.00'}}
+2024-12-17 13:39:32,657 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 13:39:32,745 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 13:39:32,746 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 13:39:32,906 - api - INFO - Stored: Encountered an error while inserting
+2024-12-17 13:39:32,906 - api - INFO - Line Items : Not inserted as no suppliers found
+2024-12-17 13:39:32,922 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:42:26,720 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:42:26,723 - api - INFO - File PI - 16304R.pdf saved to pdf\12262\PI - 16304R.pdf
+2024-12-17 13:42:38,832 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': '4,460,400.00'}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '5.00', 'Unit Price': '300,000.00', 'VAT': '205,200.00', 'Total': '1,345,200.00'}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': '4.00', 'Unit': 'PCS', 'Disc.%': '0.00', 'Unit Price': '660,000.00', 'VAT': '475,200.00', 'Total': '3,115,200.00'}], 'Total': {'Total Before Tax': '3,840,000.00', 'Total Discount': '60,000.00', 'VAT Amount': '680,400.00', 'Total': '4,460,400.00'}}
+2024-12-17 13:42:38,833 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:42:38,923 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:42:38,924 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:42:39,093 - api - INFO - Stored: Encountered an error while inserting
+2024-12-17 13:42:39,093 - api - INFO - Line Items : Not inserted as no suppliers found
+2024-12-17 13:42:39,101 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:45:32,289 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:45:32,289 - api - INFO - File PI - 16304R.pdf saved to pdf\12262\PI - 16304R.pdf
+2024-12-17 13:45:43,331 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENGINEERING (T) LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': 4460400.0}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 3115200.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:45:43,332 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:45:43,467 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:45:43,468 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:45:43,688 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:45:43,694 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:45:43,704 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:46:04,408 - api - INFO - Processing PDF for user 1...
+2024-12-17 13:46:04,410 - api - INFO - File quotenodifferent.pdf saved to pdf\1\quotenodifferent.pdf
+2024-12-17 13:46:10,745 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LTD.', 'PI No.': '1016304', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': 4460400.0}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:46:10,747 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 13:46:10,851 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 13:46:10,852 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 13:46:11,061 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:46:11,065 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:46:11,073 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:46:32,062 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:46:32,063 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\2\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:46:58,522 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'BENI IMPEX', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': '102647.90'}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC, OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT, OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL) WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL, DG INCOMER 800A, OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC + MCC PANEL (FEEDER PANEL) (WITH ENERGY METER); MAIN INCOMER 1600 A 3POLE AND NETURAL OUTGOING FEEDER 1, 100A FOR COMP.1, OUTGOING FEEDER 2, 100A FOR COMP.1, OUTGOING FEEDER 3, 100A FOR COMP.1, OUTGOING FEEDER 4, 100A FOR Air Drayer-1, OUTGOING FEEDER 5, 100A FOR Air Drayer-2, OUTGOING FEEDER 6, 400A FOR CHILLER-1, OUTGOING FEEDER 7, 400A FOR CHILLER-2, OUTGOING FEEDER 8, 400A FOR CHILLER -3, OUTGOING FEEDER 9, 400A FOR SPARE-1, OUTGOING FEEDER 11, 200A FOR SPARE-2, OUTGOING FEEDER 12, 200A FOR SPARE-3, STAR DELTA STARTER FOR WATER PUMP 11KW, STAR DELTA STARTER FOR WATER PUMP 11KW, D.O.L STARTER FOR WATER PUMP 5.5KW,', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 13111.72, 'VAT': None, 'Total': 13111.72}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, POWER FACTOR PANEL; AUTO POWER FACTOR CONTROL (APFC) PANEL 480KVAR', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 8917.29, 'VAT': None, 'Total': 8917.29}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, CUSTOM BONDED WAREHOUSE, MAIN INCOMER WITTH MEM METER: 630 A; OUTGOING FEEDER 1: 250 A; OUTGOING FEEDER 2: 250 A; OUTGOING FEEDER 3: 125 A; OUTGOING FEEDER 4: 125 A; OUTGOING FEEDER 5.6.7.8.9.10: 63 A', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 4683.19, 'VAT': None, 'Total': 4683.19}, {'Item Code': '85372000', 'Item Description': 'VCB PANEL, VCB BREAKER TYPE:- VD4/W36.12.32 AMPS:- 1250A COIL V:- 24VDC MOTOR V:- 230VAC RATED VOLT:- 36KV, ABB MAKE', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 7585.47, 'VAT': None, 'Total': 15170.94}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 500/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC : 26.3 kA/1 Sec.; Freq: 50 Hz; Insulation Class: B; Secondary Terminals on: P2 Side', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 705.37, 'VAT': None, 'Total': 2116.11}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 150/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.5.; Core2: 15 VA, Class 5P10.L STC: 31.5 kA/3 Secs.L Freq: 50 Hz Insulation Class: BL Secondary Terminals on: P2 Side, PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 679.72, 'VAT': None, 'Total': 2039.16}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 200/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1 : 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC: 26.3 kA/1 Sec.; Freq: 50 Hz; Class: B; Secondary Terminals on : P2 Side; PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 692.55, 'VAT': None, 'Total': 2077.65}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV/RT3/110V/RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse, Drg No.: AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV RT3/110V RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse; Drg No. : AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85369090', 'Item Description': 'MMAX POWER MAKE POWER PACK, I/P 90-270VAC ±10% 50Hz.± 5% O/P 24VDC/7AH', 'Qty': 5.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 140.4, 'VAT': None, 'Total': 702.0}, {'Item Code': '85361040', 'Item Description': 'FUSE, 36ABQNA3.15 3.15A/36 "Eaton Bussmann" PT/VT & Auxiliary Transformer Fuse: 3.15 A/36 kV.', 'Qty': 20.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 35.78, 'VAT': None, 'Total': 715.6}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REJ-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 493.7, 'VAT': None, 'Total': 987.4}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REF-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 565.25, 'VAT': None, 'Total': 1130.5}, {'Item Code': '85352129', 'Item Description': 'AUTO RECLOSURE, PANEL, TYPE: OVR-38, RATED VOLT, 38KV, RATED A 1200 A FREQ: 50/60, INSU LEVEL: 70/170KV PK, OPERATING SEQUENCE, O-02S-CO-2SCO-2S-CO, AUXILIARY SUPPLY VOLT: 240 VAC', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14884.16, 'VAT': None, 'Total': 14884.16}], 'Total': {'Total Before Tax': 102647.9, 'Total Discount': None, 'VAT Amount': None, 'Total': 102647.9}}
+2024-12-17 13:46:58,525 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:47:00,126 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:47:00,128 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:47:00,343 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:47:00,390 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:47:00,397 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:47:18,765 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:47:18,767 - api - INFO - File fail.pdf saved to pdf\2\fail.pdf
+2024-12-17 13:47:26,518 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LT', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': 4460400.0}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:47:26,520 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:47:26,623 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:47:26,624 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:47:26,810 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:47:26,821 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:47:26,829 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:47:42,171 - api - INFO - Processing PDF for user 1...
+2024-12-17 13:47:42,173 - api - INFO - File fail.pdf saved to pdf\1\fail.pdf
+2024-12-17 13:47:48,985 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LT', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': 4460400.0}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:47:48,986 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 13:47:49,091 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\1\idk.pdf.
+2024-12-17 13:47:49,092 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\1\idk.pdf
+2024-12-17 13:47:49,307 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 13:48:17,924 - api - INFO - Processing PDF for user 1...
+2024-12-17 13:48:17,964 - api - INFO - File Eastern Software Solutions Private Limited-12 (2).pdf saved to pdf\1\Eastern Software Solutions Private Limited-12 (2).pdf
+2024-12-17 13:48:24,139 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR', 'Total': 9500.0}, 'line_items': {'Item Code': None, 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 1449.16, 'Total': 9500.0}, 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0, 'VAT Amount': 1449.15, 'Total': 9500.0}}
+2024-12-17 13:48:24,140 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\1
+2024-12-17 13:48:24,141 - api - ERROR - Error processing PDF for user 1: string indices must be integers, not 'str' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 93, in process_pdf
+    text = texts(ans)
+           ^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\highlight.py", line 11, in texts
+    search_texts.extend([line_item[value]])
+                         ~~~~~~~~~^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2024-12-17 13:48:39,593 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:48:39,595 - api - INFO - File Eastern Software Solutions Private Limited-12 (2).pdf saved to pdf\2\Eastern Software Solutions Private Limited-12 (2).pdf
+2024-12-17 13:48:44,881 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR', 'Total': 9500.0}, 'line_items': {'Item Code': '8421', 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 18, 'Total': 9500.0}, 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0, 'VAT Amount': 1449.15, 'Total': 9500.0}}
+2024-12-17 13:48:44,882 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:48:44,882 - api - ERROR - Error processing PDF for user 2: string indices must be integers, not 'str' 
+ 
+Traceback (most recent call last):
+  File "D:\New Folder\autoentry_new\api.py", line 93, in process_pdf
+    text = texts(ans)
+           ^^^^^^^^^^
+  File "D:\New Folder\autoentry_new\highlight.py", line 11, in texts
+    search_texts.extend([line_item[value]])
+                         ~~~~~~~~~^^^^^^^
+TypeError: string indices must be integers, not 'str'
+2024-12-17 13:51:50,283 - api - INFO - Processing PDF for user 12262...
+2024-12-17 13:51:50,284 - api - INFO - File fail.pdf saved to pdf\12262\fail.pdf
+2024-12-17 13:52:02,635 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'SPECIALISED ENG PVT LT', 'PI No.': '101884', 'PI Date': '02-11-2024', 'CURRENCY': 'TZS', 'Total': 4460400.0}, 'line_items': [{'Item Code': 'SCH25518', 'Item Description': 'NU216-E-XL-TVP2-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 5.0, 'Unit Price': 300000.0, 'VAT': 205200.0, 'Total': 1345200.0}, {'Item Code': 'SCH25514', 'Item Description': 'NU216-E-XL-M1-C3', 'Qty': 4.0, 'Unit': 'PCS', 'Disc.%': 0.0, 'Unit Price': 660000.0, 'VAT': 475200.0, 'Total': 2640000.0}], 'Total': {'Total Before Tax': 3840000.0, 'Total Discount': 60000.0, 'VAT Amount': 680400.0, 'Total': 4460400.0}}
+2024-12-17 13:52:02,637 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\12262
+2024-12-17 13:52:02,877 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\12262\idk.pdf.
+2024-12-17 13:52:02,878 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\12262\idk.pdf
+2024-12-17 13:52:03,110 - api - INFO - Data already exists, skipping the file processing
+2024-12-17 13:53:27,540 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:53:27,542 - api - INFO - File Eastern Software Solutions Private Limited-12 (2).pdf saved to pdf\2\Eastern Software Solutions Private Limited-12 (2).pdf
+2024-12-17 13:53:33,353 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'Ankur Timber Electricals', 'PI No.': 'ATE/744/2024-25', 'PI Date': '24-11-2024', 'CURRENCY': 'INR', 'Total': 9500.0}, 'line_items': [{'Item Code': None, 'Item Description': 'Qubo Air Purifier Q400 White', 'Qty': 1, 'Unit': 'Pcs.', 'Disc.%': None, 'Unit Price': 8050.85, 'VAT': 18, 'Total': 9500.0}], 'Total': {'Total Before Tax': 8050.85, 'Total Discount': 0, 'VAT Amount': 1449.15, 'Total': 9500.0}}
+2024-12-17 13:53:33,355 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:53:33,466 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:53:33,467 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:53:33,627 - api - WARNING - Some required fields are missing, setting fail status to 'F'
+2024-12-17 13:53:33,658 - api - INFO - Stored: Data inserted successfully
+2024-12-17 13:53:33,661 - api - INFO - Line Items : Line Items Inserted Successfully
+2024-12-17 13:53:33,669 - api - INFO - Database updated successfully 
+ 
+
+2024-12-17 13:54:07,121 - api - INFO - Processing PDF for user 2...
+2024-12-17 13:54:07,122 - api - INFO - File PFI - 5350 - A - LIL - PLASTIC PANEL .pdf saved to pdf\2\PFI - 5350 - A - LIL - PLASTIC PANEL .pdf
+2024-12-17 13:54:33,509 - api - INFO - Answer extracted: {'header': {'Supplier Name': 'BENI IMPEX', 'PI No.': 'BI/5350/2023-2024/A', 'PI Date': '15-01-2024', 'CURRENCY': 'USD', 'Total': 102647.9}, 'line_items': [{'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, NEW PLASTIC MAIN PCC PANEL, MAIN INCOMER 2500A 3POLE AND NETURAL, OUTGOING FEEDER 1, 625A FOR NEW PLASTIC, OUTGOING FEEDER 2, 1000A FOR OLD PLASTIC PLANT, OUTGOING FEEDER 3, 1200A FOR, OUTGOING FEEDER 4, 625A FOR SPARE TUBE MILL', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14841.81, 'VAT': None, 'Total': 14841.81}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC MAIN PANEL(FEEDER DETAIL) WITH ENERGY METER; MAIN INCOMER 3200 A 3POLE AND NETURAL, DG INCOMER 800A, OUTGOING FEEDER 1, 400A FOR MACHINE -1, OUTGOING FEEDER 2, 250A FOR MACHINE -2, OUTGOING FEEDER 3, 200A FOR MACHINE -3, OUTGOING FEEDER 4,100A FOR SHED LIGHT, OUTGOING FEEDER 5,800A FOR APFC, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE, OUTGOING FEEDER 5,400A FOR SPARE', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 19268.95, 'VAT': None, 'Total': 19268.95}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, PCC + MCC PANEL (FEEDER PANEL) (WITH ENERGY METER); MAIN INCOMER 1600 A 3POLE AND NETURAL OUTGOING FEEDER 1, 100A FOR COMP.1, OUTGOING FEEDER 2, 100A FOR COMP.1, OUTGOING FEEDER 3, 100A FOR COMP.1, OUTGOING FEEDER 4, 100A FOR Air Drayer-1, OUTGOING FEEDER 5, 100A FOR Air Drayer-2, OUTGOING FEEDER 6, 400A FOR CHILLER-1, OUTGOING FEEDER 7, 400A FOR CHILLER-2, OUTGOING FEEDER 8, 400A FOR CHILLER -3, OUTGOING FEEDER 9, 400A FOR SPARE-1, OUTGOING FEEDER 11, 200A FOR SPARE-2, OUTGOING FEEDER 12, 200A FOR SPARE-3, STAR DELTA STARTER FOR WATER PUMP 11KW, STAR DELTA STARTER FOR WATER PUMP 11KW, D.O.L STARTER FOR WATER PUMP 5.5KW, D.O.L STARTER FOR WATER PUMP 5.5KW', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 13111.72, 'VAT': None, 'Total': 13111.72}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, POWER FACTOR PANEL; AUTO POWER FACTOR CONTROL (APFC) PANEL 480KVAR', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 8917.29, 'VAT': None, 'Total': 8917.29}, {'Item Code': '85371000', 'Item Description': 'ELECTRICAL PANEL, CUSTOM BONDED WAREHOUSE, MAIN INCOMER WITTH MEM METER: 630 A; OUTGOING FEEDER 1: 250 A; OUTGOING FEEDER 2: 250 A; OUTGOING FEEDER 3: 125 A; OUTGOING FEEDER 4: 125 A; OUTGOING FEEDER 5.6.7.8.9.10: 63 A', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 4683.19, 'VAT': None, 'Total': 4683.19}, {'Item Code': '85372000', 'Item Description': 'VCB PANEL, VCB BREAKER TYPE:- VD4/W36.12.32 AMPS:- 1250A COIL V:- 24VDC MOTOR V:- 230VAC RATED VOLT:- 36KV, ABB MAKE', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 7585.47, 'VAT': None, 'Total': 15170.94}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 500/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC : 26.3 kA/1 Sec.; Freq: 50 Hz; Insulation Class: B; Secondary Terminals on: P2 Side PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 705.37, 'VAT': None, 'Total': 2116.11}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 150/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1: 15 VA, Class 0.5.; Core2: 15 VA, Class 5P10.L STC: 31.5 kA/3 Secs.L Freq: 50 Hz Insulation Class: BL Secondary Terminals on: P2 Side, PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 679.72, 'VAT': None, 'Total': 2039.16}, {'Item Code': '85043100', 'Item Description': 'CURRENT TRANSFORMER, Resin Cast, Indoor, wound primary current transformer to IS:16227%1&2/2016; Ratio : 200/5%5 A; HSV : 36 kV IL: 36/70/170 kVp; Core1 : 15 VA, Class 0.2S.; Core2: 15 VA, Class 5P20.; STC: 26.3 kA/1 Sec.; Freq: 50 Hz; Class: B; Secondary Terminals on : P2 Side; PRAGATI MAKE', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 692.55, 'VAT': None, 'Total': 2077.65}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV/RT3/110V/RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse, Drg No.: AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85042200', 'Item Description': 'ELECTRICAL TRANSFORMER, 33kV PT Gun Type Single Core (AV-PT-33kV-03-T-1), 1-Phase, Earthed Type Ratio : 33kV RT3/110V RT3, Sys. V. : 33kV, IL: 36kV/70kV/170kVp, Sec-1 : 50 VA, Class 0.5, V.F.: 1.2 Cont. & 1.5 for 30 sec, Freq: 50 Hz, Insulation Class: B, With Fuse; Drg No. : AV-PT-33kV-03-T-1A, Rev.: 0', 'Qty': 3.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 333.57, 'VAT': None, 'Total': 1000.71}, {'Item Code': '85369090', 'Item Description': 'MMAX POWER MAKE POWER PACK, I/P 90-270VAC ±10% 50Hz.± 5% O/P 24VDC/7AH', 'Qty': 5.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 140.4, 'VAT': None, 'Total': 702.0}, {'Item Code': '85361040', 'Item Description': 'FUSE, 36ABQNA3.15 3.15A/36 "Eaton Bussmann" PT/VT & Auxiliary Transformer Fuse: 3.15 A/36 kV.', 'Qty': 20.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 35.78, 'VAT': None, 'Total': 715.6}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REJ-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 493.7, 'VAT': None, 'Total': 987.4}, {'Item Code': '85364900', 'Item Description': 'RELAY, ABB RELAY REF-601', 'Qty': 2.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 565.25, 'VAT': None, 'Total': 1130.5}, {'Item Code': '85352129', 'Item Description': 'AUTO RECLOSURE, PANEL, TYPE: OVR-38, RATED VOLT, 38KV, RATED A 1200 A FREQ: 50/60, INSU LEVEL: 70/170KV PK, OPERATING SEQUENCE, O-02S-CO-2SCO-2S-CO, AUXILIARY SUPPLY VOLT: 240 VAC', 'Qty': 1.0, 'Unit': 'PCS', 'Disc.%': None, 'Unit Price': 14884.16, 'VAT': None, 'Total': 14884.16}], 'Total': {'Total Before Tax': 102647.9, 'Total Discount': None, 'VAT Amount': None, 'Total': 102647.9}}
+2024-12-17 13:54:33,515 - api - INFO - Output directory created: D:\New Folder\autoentry_new\processed\2
+2024-12-17 13:54:35,368 - api - INFO - 
+Saved highlighted PDF as D:\New Folder\autoentry_new\processed\2\idk.pdf.
+2024-12-17 13:54:35,371 - api - INFO - Highlighted PDF saved at D:\New Folder\autoentry_new\processed\2\idk.pdf
+2024-12-17 13:54:35,498 - api - INFO - Data already exists, skipping the file processing
