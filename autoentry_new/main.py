@@ -16,8 +16,8 @@ import google.generativeai as genai
 # poppler_path = r'D:\poppler-windows-24.08.0-0\bin'
 
 oracledb.init_oracle_client(lib_dir=r"D:\oracle\instantclient_23_5") 
-os.environ['GOOGLE_API_KEY']="AIzaSyA5tXsm9Sr3fEuC-LPl-8rhWjRAej0vuDI"
-os.environ['API_KEY'] = "AIzaSyA5tXsm9Sr3fEuC-LPl-8rhWjRAej0vuDI"
+os.environ['GOOGLE_API_KEY']=
+os.environ['API_KEY'] = 
 genai.configure(api_key=os.environ["API_KEY"])
 llm=genai.GenerativeModel("gemini-1.5-flash",generation_config={"temperature":1})
 
